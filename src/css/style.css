@@ -27,7 +27,10 @@ body {
     background-color: white;
     
 
-}  
+} 
+#display:hover{
+    background-color: #f3f0f09f;
+} 
 
 #buttons {  
     display: grid;  
